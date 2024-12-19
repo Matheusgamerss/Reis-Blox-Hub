@@ -11363,8 +11363,8 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "REIS BLOX hub",
-    Content = "https://discord.gg/RVYdt8nxVj!!",
+    Name = "KING hub",
+    Content = "https://discord.gg/DQg5nzQ2uY!!",
     Image = "https://cdn.discordapp.com/attachments/1295171560969080883/1295173308144291851/a_8b8024343a9ba6620b851b10bebac2e6.gif?ex=670dafa3&is=670c5e23&hm=c0c86f884d07b7e230ea5c3e85b0b93684238c9899d192e5e95d49f1f118bfb7&",
     Time = 5
 })
